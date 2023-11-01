@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Lennen&style=flat-square&color=blue" alt=""/>
 </div>
 
 ![](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
