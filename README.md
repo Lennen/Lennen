@@ -42,8 +42,7 @@
 </div>
 
 <br/>
-<div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>div
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=Lennen&background=000000)](https://git.io/streak-stats)
+
 
 
