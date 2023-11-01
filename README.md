@@ -15,7 +15,8 @@
   <a href="https://twitter.com/technofeya">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=lennen&style=flat-square&color=blue" alt=""/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Lennen&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h3 align="center" style="color: white">Hi there, I'm Lennen 👋</h3>
