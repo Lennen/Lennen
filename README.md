@@ -19,7 +19,35 @@
   <img src="https://komarev.com/ghpvc/?username=Lennen&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h3 align="center" style="color: white">Hi there, I'm Lennen 👋</h3>
+![](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+![GitHub followers](https://img.shields.io/github/followers/lennen?label=GitHub%20Followers&logo=github&color=red)
+![](https://komarev.com/ghpvc/?username=lennen&color=red)
+
+<div style="display: flex; flex-direction: row-reverse; align-items:center; justify-conten: center;">
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+
+```js
+class FullstackDeveloper {
+    constructor() {
+        this.name = "Lennen";
+        this.age = 32;
+        this.role = "Fullstack Teamlead-Developer";
+        this.language_spoken = ["en", "ru", "fr", "es"];
+    }
+
+    sayHi() {
+        console.log("Hi there! 👋 Thanks for stopping by. I hope you find some of my work interesting.");
+    }
+}
+
+const me = new FullstackDeveloper();
+me.sayHi();
+```
+
+</div>
+
+
 <h3 align="center">Computer science professional, IT-specialist, code writer from Russia 🇷🇺</h3>
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Let's+make+IT+future+together" alt="Typing SVG" /></a>
