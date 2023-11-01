@@ -23,7 +23,12 @@
 <h3 align="center">Computer science professional, IT-specialist, code writer from Russia 🇷🇺</h3>
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Let's+make+IT+future+together" alt="Typing SVG" /></a>
-
+sfsdsfdsdfs
+sdfsdfsdf
+sdfsdfsd
+fsdfsdf
+sdfsdf
+sdfsdf
 <br/>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
