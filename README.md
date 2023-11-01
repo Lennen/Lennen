@@ -44,6 +44,7 @@
 </div>
 
 <br/><br/><br/>
+<h3 align="center">I use local gitlab repositories, but let's see my contribution on GitHub</h3>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lennen&theme=dark&background=000000)](https://git.io/streak-stats)
 <br/><br/>
 
